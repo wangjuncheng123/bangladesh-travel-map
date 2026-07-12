@@ -49,4 +49,11 @@ describe('map pointer interaction', () => {
     expect(css).toContain('.map-stage { height: min(78vh, 650px); margin-top: -25px; }');
     expect(source).not.toContain('<footer>');
   });
+
+  it('allows vertically scrolling the full page on mobile', () => {
+    const css = readFileSync(new URL('./styles.css', import.meta.url), 'utf8');
+
+    expect(css).toContain('.app { min-height: 100vh; overflow-x: hidden; }');
+    expect(css).not.toContain('.app { min-height: 100vh; overflow: hidden; }');
+  });
 });
