@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { parseCsv, resolveRegionId } from './attraction-data.mjs';
 
@@ -57,6 +57,11 @@ function coordinates(record) {
   return Number.isFinite(latitude) && Number.isFinite(longitude) ? { latitude, longitude } : null;
 }
 
+function generatedImagePath(id) {
+  const relativePath = `/generated/${id}.jpg`;
+  return existsSync(`${root}public${relativePath}`) ? relativePath : '';
+}
+
 const attractions = records.map(record => {
   const presentation = categoryPresentation(record);
   const regionId = resolveRegionId(record.division);
@@ -69,6 +74,7 @@ const attractions = records.map(record => {
   const summaryBn = `${nameBn} — ${district}, ${record.division}.`;
   const status = record.verification_status || '';
   const sources = sourceUrls(record.source_urls || '');
+  const aiImageUrl = generatedImagePath(record.id);
 
   return {
     id: record.id,
@@ -96,9 +102,8 @@ const attractions = records.map(record => {
       coordinates: coordinates(record),
     },
     parentSite: record.parent_site || '',
-    // Images remain hidden until an official source and usage permission are recorded.
-    imageUrl: '',
-    imageKind: 'none',
+    imageUrl: aiImageUrl,
+    imageKind: aiImageUrl ? 'ai' : 'none',
   };
 });
 

@@ -5,13 +5,11 @@ const app = readFileSync(new URL('./App.tsx', import.meta.url), 'utf8');
 const generator = readFileSync(new URL('../scripts/generate-attractions.mjs', import.meta.url), 'utf8');
 
 describe('scenic-media and carousel behavior', () => {
-  it('keeps unverified and AI-generated images out of the visitor interface', () => {
-    expect(generator).not.toContain('generatedImagePath(record.id)');
-    expect(generator).toContain("imageUrl: ''");
-    expect(generator).toContain("imageKind: 'none'");
+  it('shows archived AI illustrations with a visible disclosure label', () => {
+    expect(generator).toContain('generatedImagePath(record.id)');
+    expect(generator).toContain("imageKind: aiImageUrl ? 'ai' : 'none'");
     expect(app).toContain('function PlaceVisual');
-    expect(app).toContain('<NoImage place={place} lang={lang} large={large} />');
-    expect(app).toContain('{ui[lang].noImage}');
+    expect(app).toContain("place.imageKind === 'ai' ? 'AI GENERATED ILLUSTRATION'");
   });
 
   it('keeps the carousel moving unless the visitor is actively dragging it', () => {
