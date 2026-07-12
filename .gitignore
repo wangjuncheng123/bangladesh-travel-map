@@ -1,6 +1,6 @@
 node_modules/
 dist/
-.tsbuildinfo
+*.tsbuildinfo
 __pycache__/
 .DS_Store
 .cache/
