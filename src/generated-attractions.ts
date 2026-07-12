@@ -227,7 +227,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0003.jpg",
+    "imageUrl": "generated/BD-POI-0003.jpg",
     "imageKind": "ai"
   },
   {
@@ -302,7 +302,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0004.jpg",
+    "imageUrl": "generated/BD-POI-0004.jpg",
     "imageKind": "ai"
   },
   {
@@ -376,7 +376,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0005.jpg",
+    "imageUrl": "generated/BD-POI-0005.jpg",
     "imageKind": "ai"
   },
   {
@@ -451,7 +451,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0006.jpg",
+    "imageUrl": "generated/BD-POI-0006.jpg",
     "imageKind": "ai"
   },
   {
@@ -526,7 +526,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0007.jpg",
+    "imageUrl": "generated/BD-POI-0007.jpg",
     "imageKind": "ai"
   },
   {
@@ -602,7 +602,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0008.jpg",
+    "imageUrl": "generated/BD-POI-0008.jpg",
     "imageKind": "ai"
   },
   {
@@ -677,7 +677,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0009.jpg",
+    "imageUrl": "generated/BD-POI-0009.jpg",
     "imageKind": "ai"
   },
   {
@@ -752,7 +752,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0010.jpg",
+    "imageUrl": "generated/BD-POI-0010.jpg",
     "imageKind": "ai"
   },
   {
@@ -826,7 +826,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Puthia",
-    "imageUrl": "/generated/BD-POI-0011.jpg",
+    "imageUrl": "generated/BD-POI-0011.jpg",
     "imageKind": "ai"
   },
   {
@@ -901,7 +901,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Puthia",
-    "imageUrl": "/generated/BD-POI-0012.jpg",
+    "imageUrl": "generated/BD-POI-0012.jpg",
     "imageKind": "ai"
   },
   {
@@ -976,7 +976,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0013.jpg",
+    "imageUrl": "generated/BD-POI-0013.jpg",
     "imageKind": "ai"
   },
   {
@@ -1125,7 +1125,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0015.jpg",
+    "imageUrl": "generated/BD-POI-0015.jpg",
     "imageKind": "ai"
   },
   {
@@ -1424,7 +1424,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0019.jpg",
+    "imageUrl": "generated/BD-POI-0019.jpg",
     "imageKind": "ai"
   },
   {
@@ -1648,7 +1648,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0022.jpg",
+    "imageUrl": "generated/BD-POI-0022.jpg",
     "imageKind": "ai"
   },
   {
@@ -5163,7 +5163,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0069.jpg",
+    "imageUrl": "generated/BD-POI-0069.jpg",
     "imageKind": "ai"
   },
   {
@@ -5687,7 +5687,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0076.jpg",
+    "imageUrl": "generated/BD-POI-0076.jpg",
     "imageKind": "ai"
   },
   {
@@ -5986,7 +5986,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0080.jpg",
+    "imageUrl": "generated/BD-POI-0080.jpg",
     "imageKind": "ai"
   },
   {
@@ -6433,7 +6433,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0086.jpg",
+    "imageUrl": "generated/BD-POI-0086.jpg",
     "imageKind": "ai"
   },
   {
@@ -6508,7 +6508,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0087.jpg",
+    "imageUrl": "generated/BD-POI-0087.jpg",
     "imageKind": "ai"
   },
   {
@@ -6732,7 +6732,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0090.jpg",
+    "imageUrl": "generated/BD-POI-0090.jpg",
     "imageKind": "ai"
   },
   {
@@ -6959,7 +6959,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0093.jpg",
+    "imageUrl": "generated/BD-POI-0093.jpg",
     "imageKind": "ai"
   },
   {
@@ -7259,7 +7259,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0097.jpg",
+    "imageUrl": "generated/BD-POI-0097.jpg",
     "imageKind": "ai"
   },
   {
@@ -7408,7 +7408,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0099.jpg",
+    "imageUrl": "generated/BD-POI-0099.jpg",
     "imageKind": "ai"
   },
   {
@@ -7558,7 +7558,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0101.jpg",
+    "imageUrl": "generated/BD-POI-0101.jpg",
     "imageKind": "ai"
   },
   {
@@ -7632,7 +7632,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0102.jpg",
+    "imageUrl": "generated/BD-POI-0102.jpg",
     "imageKind": "ai"
   },
   {
@@ -7859,7 +7859,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0105.jpg",
+    "imageUrl": "generated/BD-POI-0105.jpg",
     "imageKind": "ai"
   },
   {
@@ -8162,7 +8162,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0109.jpg",
+    "imageUrl": "generated/BD-POI-0109.jpg",
     "imageKind": "ai"
   },
   {
@@ -8466,7 +8466,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0113.jpg",
+    "imageUrl": "generated/BD-POI-0113.jpg",
     "imageKind": "ai"
   },
   {
@@ -8542,7 +8542,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0114.jpg",
+    "imageUrl": "generated/BD-POI-0114.jpg",
     "imageKind": "ai"
   },
   {
@@ -8845,7 +8845,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0118.jpg",
+    "imageUrl": "generated/BD-POI-0118.jpg",
     "imageKind": "ai"
   },
   {
@@ -8921,7 +8921,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0119.jpg",
+    "imageUrl": "generated/BD-POI-0119.jpg",
     "imageKind": "ai"
   },
   {
@@ -9146,7 +9146,7 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "/generated/BD-POI-0122.jpg",
+    "imageUrl": "generated/BD-POI-0122.jpg",
     "imageKind": "ai"
   }
 ] satisfies Attraction[];

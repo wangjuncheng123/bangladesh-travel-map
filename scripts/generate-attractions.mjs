@@ -58,8 +58,8 @@ function coordinates(record) {
 }
 
 function generatedImagePath(id) {
-  const relativePath = `/generated/${id}.jpg`;
-  return existsSync(`${root}public${relativePath}`) ? relativePath : '';
+  const relativePath = `generated/${id}.jpg`;
+  return existsSync(`${root}public/${relativePath}`) ? relativePath : '';
 }
 
 const attractions = records.map(record => {

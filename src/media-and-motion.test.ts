@@ -7,6 +7,7 @@ const generator = readFileSync(new URL('../scripts/generate-attractions.mjs', im
 describe('scenic-media and carousel behavior', () => {
   it('shows archived AI illustrations with a visible disclosure label', () => {
     expect(generator).toContain('generatedImagePath(record.id)');
+    expect(generator).toContain('const relativePath = `generated/${id}.jpg`;');
     expect(generator).toContain("imageKind: aiImageUrl ? 'ai' : 'none'");
     expect(app).toContain('function PlaceVisual');
     expect(app).toContain("place.imageKind === 'ai' ? 'AI GENERATED ILLUSTRATION'");
