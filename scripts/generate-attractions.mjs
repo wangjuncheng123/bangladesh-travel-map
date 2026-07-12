@@ -1,10 +1,14 @@
-import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { parseCsv, resolveRegionId } from './attraction-data.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const inputPath = `${root}data/bangladesh_attractions.csv`;
 const outputPath = `${root}src/generated-attractions.ts`;
+const illustrationsDirectory = `${root}public/generated`;
+const illustrationFiles = existsSync(illustrationsDirectory)
+  ? readdirSync(illustrationsDirectory).filter(file => file.endsWith('.jpg')).sort()
+  : [];
 
 const rows = parseCsv(readFileSync(inputPath, 'utf8'));
 const headers = rows.shift().map((header, index) => index === 0 ? header.replace(/^\uFEFF/, '') : header);
@@ -59,7 +63,10 @@ function coordinates(record) {
 
 function generatedImagePath(id) {
   const relativePath = `generated/${id}.jpg`;
-  return existsSync(`${root}public/${relativePath}`) ? relativePath : '';
+  if (existsSync(`${root}public/${relativePath}`)) return relativePath;
+  const hash = [...id].reduce((total, character) => total + character.charCodeAt(0), 0);
+  const fallback = illustrationFiles[hash % illustrationFiles.length];
+  return fallback ? `generated/${fallback}` : '';
 }
 
 const attractions = records.map(record => {

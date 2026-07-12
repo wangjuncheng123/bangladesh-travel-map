@@ -76,8 +76,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0012.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0002",
@@ -152,8 +152,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Historic Mosque City of Bagerhat",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0013.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0003",
@@ -1050,8 +1050,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0015",
@@ -1200,8 +1200,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0017",
@@ -1275,8 +1275,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0018",
@@ -1350,8 +1350,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0019",
@@ -1499,8 +1499,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0013.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0021",
@@ -1573,8 +1573,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0015.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0022",
@@ -1722,8 +1722,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0024",
@@ -1796,8 +1796,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0069.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0025",
@@ -1872,8 +1872,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0026",
@@ -1947,8 +1947,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0027",
@@ -2021,8 +2021,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0028",
@@ -2096,8 +2096,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0029",
@@ -2170,8 +2170,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0030",
@@ -2245,8 +2245,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0015.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0031",
@@ -2320,8 +2320,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0019.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0032",
@@ -2395,8 +2395,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0033",
@@ -2470,8 +2470,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0069.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0034",
@@ -2546,8 +2546,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0035",
@@ -2621,8 +2621,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0036",
@@ -2697,8 +2697,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0037",
@@ -2771,8 +2771,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0038",
@@ -2846,8 +2846,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0039",
@@ -2921,8 +2921,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0040",
@@ -2995,8 +2995,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0019.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0041",
@@ -3070,8 +3070,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0042",
@@ -3145,8 +3145,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0069.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0043",
@@ -3220,8 +3220,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0044",
@@ -3295,8 +3295,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Sonargaon",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0045",
@@ -3370,8 +3370,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Sonargaon",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0046",
@@ -3445,8 +3445,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0047",
@@ -3520,8 +3520,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0048",
@@ -3595,8 +3595,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0049",
@@ -3670,8 +3670,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0097.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0050",
@@ -3744,8 +3744,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0051",
@@ -3818,8 +3818,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0069.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0052",
@@ -3893,8 +3893,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0053",
@@ -3967,8 +3967,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0054",
@@ -4043,8 +4043,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0055",
@@ -4118,8 +4118,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0056",
@@ -4192,8 +4192,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Saint Martin's Island",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0057",
@@ -4267,8 +4267,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0058",
@@ -4341,8 +4341,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0097.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0059",
@@ -4416,8 +4416,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0099.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0060",
@@ -4491,8 +4491,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0069.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0061",
@@ -4566,8 +4566,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0062",
@@ -4640,8 +4640,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0063",
@@ -4714,8 +4714,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0064",
@@ -4789,8 +4789,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0065",
@@ -4864,8 +4864,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0066",
@@ -4939,8 +4939,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0067",
@@ -5014,8 +5014,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0097.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0068",
@@ -5088,8 +5088,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0099.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0069",
@@ -5238,8 +5238,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0071",
@@ -5313,8 +5313,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0072",
@@ -5388,8 +5388,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0073",
@@ -5463,8 +5463,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0074",
@@ -5537,8 +5537,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0075",
@@ -5612,8 +5612,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "Mainamati Buddhist ruins",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0076",
@@ -5762,8 +5762,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0099.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0078",
@@ -5837,8 +5837,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0101.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0079",
@@ -5912,8 +5912,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0102.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0080",
@@ -6061,8 +6061,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0082",
@@ -6135,8 +6135,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0083",
@@ -6210,8 +6210,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0084",
@@ -6284,8 +6284,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0093.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0085",
@@ -6359,8 +6359,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0097.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0086",
@@ -6583,8 +6583,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0102.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0089",
@@ -6658,8 +6658,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0105.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0090",
@@ -6808,8 +6808,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0087.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0092",
@@ -6883,8 +6883,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0090.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0093",
@@ -7035,8 +7035,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0097.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0095",
@@ -7109,8 +7109,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0099.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0096",
@@ -7184,8 +7184,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0101.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0097",
@@ -7333,8 +7333,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0105.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0099",
@@ -7483,8 +7483,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0012.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0101",
@@ -7708,8 +7708,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0019.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0104",
@@ -7784,8 +7784,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0022.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0105",
@@ -7935,8 +7935,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0107",
@@ -8011,8 +8011,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0108",
@@ -8087,8 +8087,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0109",
@@ -8238,8 +8238,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0013.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0111",
@@ -8314,8 +8314,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0015.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0112",
@@ -8390,8 +8390,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0019.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0113",
@@ -8618,8 +8618,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0076.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0116",
@@ -8693,8 +8693,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0080.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0117",
@@ -8769,8 +8769,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0086.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0118",
@@ -8996,8 +8996,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0015.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0121",
@@ -9071,8 +9071,8 @@ export const generatedAttractions = [
       }
     },
     "parentSite": "",
-    "imageUrl": "",
-    "imageKind": "none"
+    "imageUrl": "generated/BD-POI-0019.jpg",
+    "imageKind": "ai"
   },
   {
     "id": "BD-POI-0122",
