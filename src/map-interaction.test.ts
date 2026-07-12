@@ -23,6 +23,13 @@ describe('map pointer interaction', () => {
     expect(transformRule).toContain('transform-box: view-box');
   });
 
+  it('uses an SVG transform attribute so selected maps remain visible on mobile browsers', () => {
+    const source = readFileSync(new URL('./App.tsx', import.meta.url), 'utf8');
+
+    expect(source).toContain('<g className="country-transform" transform={transform}>');
+    expect(source).not.toContain('<g className="country-transform" style={{ transform }}>');
+  });
+
   it('does not apply a drop-shadow filter to the full country geometry group', () => {
     const source = readFileSync(new URL('./App.tsx', import.meta.url), 'utf8');
 

@@ -72,8 +72,8 @@ function BangladeshMap({ selected, onSelect, lang }: { selected: string | null; 
   const selectedFeature = divisionBoundaries.features.find(feature => getDivisionId(feature) === selected);
   const selectedCenter = selectedFeature ? path.centroid(selectedFeature) : [380, 365];
   const transform = selectedRegion
-    ? `translate(${380 - selectedCenter[0] * 1.08}px, ${360 - selectedCenter[1] * 1.08}px) scale(1.08)`
-    : 'translate(0px, 0px) scale(1)';
+    ? `translate(${380 - selectedCenter[0] * 1.08} ${360 - selectedCenter[1] * 1.08}) scale(1.08)`
+    : 'translate(0 0) scale(1)';
   const cityCoordinates: Record<string, [number, number]> = {
     'rangpur-city': [89.25, 25.74], dinajpur: [88.64, 25.63], 'rajshahi-city': [88.60, 24.37], bogura: [89.37, 24.85],
     'mymensingh-city': [90.41, 24.75], 'sylhet-city': [91.87, 24.89], srimangal: [91.73, 24.31], 'dhaka-city': [90.41, 23.81],
@@ -101,7 +101,7 @@ function BangladeshMap({ selected, onSelect, lang }: { selected: string | null; 
             ))}
           </mask>
         </defs>
-        <g className="country-transform" style={{ transform }}>
+        <g className="country-transform" transform={transform}>
           <g>
             <g mask="url(#neighbor-border-mask)">
               {countryBoundaries.features.filter(feature => feature.properties.ADM0_A3 !== 'BGD').map(feature => (
