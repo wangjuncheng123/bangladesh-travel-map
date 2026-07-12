@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.tsbuildinfo
+__pycache__/
+.DS_Store
+.cache/
+.baoyu-skills/
+private/
+ai-image-batch.json
+scripts/build-ai-image-batch.mjs

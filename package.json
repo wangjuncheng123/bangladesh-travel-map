@@ -1,0 +1,30 @@
+{
+  "name": "bangladesh-travel-map",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:data": "node scripts/generate-attractions.mjs",
+    "dev": "npm run generate:data && vite",
+    "build": "npm run generate:data && tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "npm run generate:data && vitest run"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "d3-geo": "^3.1.1",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.1.1",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "vitest": "latest"
+  }
+}
