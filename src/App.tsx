@@ -67,6 +67,7 @@ function sourceLabel(url: string) {
 
 function BangladeshMap({ selected, onSelect, lang }: { selected: string | null; onSelect: (id: string) => void; lang: Language }) {
   const selectedRegion = regions.find(r => r.id === selected);
+  const [isNarrowViewport, setIsNarrowViewport] = useState(() => window.matchMedia('(max-width: 900px)').matches);
   const projection = useMemo(() => geoMercator().center([90.15, 24.3]).scale(6100).translate([380, 365]), []);
   const path = useMemo(() => geoPath(projection), [projection]);
   const selectedFeature = divisionBoundaries.features.find(feature => getDivisionId(feature) === selected);
@@ -74,6 +75,12 @@ function BangladeshMap({ selected, onSelect, lang }: { selected: string | null; 
   const transform = selectedRegion
     ? `translate(${380 - selectedCenter[0] * 1.08} ${360 - selectedCenter[1] * 1.08}) scale(1.08)`
     : 'translate(0 0) scale(1)';
+  useEffect(() => {
+    const query = window.matchMedia('(max-width: 900px)');
+    const syncViewport = () => setIsNarrowViewport(query.matches);
+    query.addEventListener('change', syncViewport);
+    return () => query.removeEventListener('change', syncViewport);
+  }, []);
   const cityCoordinates: Record<string, [number, number]> = {
     'rangpur-city': [89.25, 25.74], dinajpur: [88.64, 25.63], 'rajshahi-city': [88.60, 24.37], bogura: [89.37, 24.85],
     'mymensingh-city': [90.41, 24.75], 'sylhet-city': [91.87, 24.89], srimangal: [91.73, 24.31], 'dhaka-city': [90.41, 23.81],
@@ -101,7 +108,7 @@ function BangladeshMap({ selected, onSelect, lang }: { selected: string | null; 
             ))}
           </mask>
         </defs>
-        <g className="country-transform" transform={transform}>
+        <g className="country-transform" transform={isNarrowViewport ? undefined : transform}>
           <g>
             <g mask="url(#neighbor-border-mask)">
               {countryBoundaries.features.filter(feature => feature.properties.ADM0_A3 !== 'BGD').map(feature => (

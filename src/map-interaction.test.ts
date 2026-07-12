@@ -23,10 +23,11 @@ describe('map pointer interaction', () => {
     expect(transformRule).toContain('transform-box: view-box');
   });
 
-  it('uses an SVG transform attribute so selected maps remain visible on mobile browsers', () => {
+  it('disables the SVG zoom transform on narrow viewports so selected maps stay visible', () => {
     const source = readFileSync(new URL('./App.tsx', import.meta.url), 'utf8');
 
-    expect(source).toContain('<g className="country-transform" transform={transform}>');
+    expect(source).toContain("window.matchMedia('(max-width: 900px)')");
+    expect(source).toContain('<g className="country-transform" transform={isNarrowViewport ? undefined : transform}>');
     expect(source).not.toContain('<g className="country-transform" style={{ transform }}>');
   });
 
@@ -54,6 +55,8 @@ describe('map pointer interaction', () => {
     const source = readFileSync(new URL('./App.tsx', import.meta.url), 'utf8');
 
     expect(css).toContain('.map-stage { height: min(78vh, 650px); margin-top: -25px; }');
+    expect(css).toContain('.hero.has-selection { grid-template-columns: minmax(0, 1fr); padding-bottom: 0; }');
+    expect(css).toContain('.film-section--compact { min-width: 0;');
     expect(source).not.toContain('<footer>');
   });
 
